@@ -1,0 +1,7 @@
+src/MultipleTargetLibrary/bin
+src/MultipleTargetLibrary/obj
+test/Net5Test/obj
+test/Net5Test/bin
+test/NetCore3_1Test/bin
+test/NetCore3_1Test/obj
+.vscode
